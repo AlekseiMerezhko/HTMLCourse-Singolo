@@ -1,0 +1,31 @@
+To display this image...	...use this style
+ 
+background-position: 0px 0px;
+ 
+background-position: 0px -69px;
+ 
+background-position: 0px -138px;
+ 
+background-position: 0px -207px;
+ 
+background-position: 0px -276px;
+ 
+background-position: 0px -345px;
+ 
+background-position: 0px -414px;
+ 
+background-position: 0px -456px;
+ 
+background-position: 0px -498px;
+ 
+background-position: 0px -540px;
+ 
+background-position: 0px -582px;
+ 
+background-position: 0px -619px;
+ 
+background-position: 0px -656px;
+ 
+background-position: 0px -677px;
+ 
+background-position: 0px -695px;

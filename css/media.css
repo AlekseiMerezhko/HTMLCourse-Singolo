@@ -1,0 +1,94 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.spr{
+	margin: 0 auto;
+}
+.services .box_services .col-sm-6{
+	text-align: center;
+}
+.mimi_serv_head{
+	padding-top: 15px;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+@media only screen and (max-width : 640px) {
+.btn_menu{
+	display: block;
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+	display: none;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 91px;
+	text-align: center;
+	background-color: #303441;
+
+}
+.menu li{
+	display: block;
+	padding: 8px 0;
+}
+.menu li:before{
+	display: none;
+}
+.menu li:hover{
+	background-color: #373b4a;
+}
+}
+@media only screen and (min-width : 640px) {
+.menu ul{
+	display: block !important;
+}
+}
